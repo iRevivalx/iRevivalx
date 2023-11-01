@@ -1,6 +1,6 @@
 Welcome to my profile! 😇
 
-I’m currently enlisted in the army as a simulation operator! 👨‍💻 <br>
+I’m currently studying Information Security! 👨‍💻 <br>
 I have strong interest and passion for vulnerability research and digital forensics! 💻 <br>
 One fun fact about me is i love taking part in CTF competition during my spare time. ⚔️ 
 
